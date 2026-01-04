@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "アイドルライフスターターパック",
+  "base_artist": "iLiFE!",
+  "createdAt": "2026-01-04T07:18:50.492812Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイドルライフスターターパック",
+      "artist": "iLiFE!",
+      "has_synced": true,
+      "path": "select/01_アイドルライフスターターパック_iLiFE!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイドルライフスターターパック",
+      "artist": "iLiFE!",
+      "has_synced": false,
+      "path": "select/02_アイドルライフスターターパック_iLiFE!.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイドルライフスターターパック",
+      "artist": "iLiFE!",
+      "has_synced": false,
+      "path": "select/pl_01_アイドルライフスターターパック_iLiFE!.txt"
+    }
+  ]
+}
